@@ -1,0 +1,17 @@
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.pkl
+*.png
+*.jpg
+*.wav
+*.mp3
+*.flac
+*.ipynb
+*.npy
+*.pyc
+wandb/**/*.*
+wandb/**
+LibriSpeech/dev-clean/**
+LibriSpeech/dev-clean/**/*.*
